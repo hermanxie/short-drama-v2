@@ -1,0 +1,90 @@
+{
+  "episode_id": "EP28",
+  "aspect_ratio": "9:16",
+  "characters": {
+    "亚特": {
+      "refs": ["characters/亚特-无剑.jpg"],
+      "image_tag": "@Image1",
+      "description": "巫幽门新任掌门，被精绝女王枝条吊起，神情从讨好转为惊慌"
+    },
+    "解伊": {
+      "refs": ["characters/刘解伊三视图.jpg"],
+      "image_tag": "@Image2",
+      "description": "大汉公主，被楼兰王扣住手腕后又被枝条吊起，与亚特悬空相对"
+    },
+    "精绝女王（常态）": {
+      "refs": ["characters/精绝女王三视图.jpg"],
+      "image_tag": "@Image3",
+      "description": "绝美、妖媚而危险的女王，能操控枝条，气场压迫，眼神妩媚"
+    },
+     "精绝女王湿身": {
+      "refs": ["characters/精绝女王湿身.jpg"],
+      "image_tag": "@Image4",
+      "description": "绝美、妖媚而危险的女王，能操控枝条，气场压迫，眼神妩媚"
+    },
+     "精绝女王异化": {
+      "refs": ["characters/精绝女王-异化.jpg"],
+      "image_tag": "@Image5",
+      "description": "丑陋、恐怖的树皮人女王，能操控枝条，气场压迫，眼神阴鸷"
+    },
+    "楼兰王": {
+      "refs": ["characters/楼兰王-常态.jpg"],
+      "image_tag": "@Image6",
+      "description": "破门闯入，狞笑追捕解伊，被精绝女王美色分神后遭枝条抽翻"
+    },
+    "秦汉": {
+      "refs": ["characters/秦汉三视图-白发.jpg"],
+      "image_tag": "@Image7",
+      "description": "白发昏迷，躺在床榻上，被精绝女王宣称为自己的人"
+    }
+  },
+  "scenes": {
+    "精绝宫殿寝宫": {
+      "refs": ["scenes/精绝女王宫殿寝宫卧室-浴池.jpg"],
+      "image_tag": "@Scene1",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+     "scenes": {
+    "精绝宫殿卧室": {
+      "refs": ["scenes/精绝女王宫殿寝宫卧室.jpg"],
+      "image_tag": "@Scene1",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+     "scenes": {
+    "精绝宫殿浴池": {
+      "refs": ["scenes/精绝女王宫殿寝宫浴池.jpg"],
+      "image_tag": "@Scene2",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+     "scenes": {
+    "精绝宫殿大厅": {
+      "refs": ["scenes/精绝女王宫殿大厅.jpg"],
+      "image_tag": "@Scene3",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+     "scenes": {
+    "精绝宫殿连廊": {
+      "refs": ["scenes/精绝女王宫殿连廊.jpg"],
+      "image_tag": "@Scene4",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+     "scenes": {
+    "精绝宫殿空房间": {
+      "refs": ["scenes/精绝女王宫殿空房间.jpg"],
+      "image_tag": "@Scene5",
+      "description": "精绝宫殿卧室，内有浴池、床榻与纱帘，白天，带有诡异华丽的女王寝殿氛围"
+    }
+  },
+  "props": {
+    "枝条": {
+      "refs": ["props/精绝女王树枝武器.jpg"],
+      "image_tag": "@Prop1",
+      "description": "可蠕动并破空飞出的树枝/枝条，用于缠住、吊起或抽打人物"
+    },
+    "床榻纱帘": {
+      "refs": ["props/精绝女王卧室床.jpg"],
+      "image_tag": "@Prop2",
+      "description": "遮住床榻的纱帘，精绝女王拉开后露出昏迷的秦汉"
+    }
+  }
+}
