@@ -34,7 +34,7 @@ REQUIRED_PANEL_FIELDS = {
     "visual_goal",
 }
 FORBIDDEN_FINAL_TERMS = ("visual_focus", "camera_intention", "emotional_energy")
-SEEDANCE_MAX_CHARS = 1990
+SEEDANCE_MAX_CHARS = 1970
 SEEDANCE_TARGET_MIN_CHARS = 1900
 
 

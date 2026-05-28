@@ -1,0 +1,205 @@
+{
+  "episode_id": "EP28",
+  "duration_seconds": 120,
+  "shot_blocks": [
+    {
+      "block_id": "block_01",
+      "duration": 12,
+      "source_script_text": "亚特缓慢回头，看见浴池中站着一位绝美湿身女子，媚眼如丝。解伊惊恐：刚才她还是……！现在怎么就……",
+      "scene_location": "精绝宫殿卧室浴池边，白天，乳白水雾",
+      "characters": ["亚特", "解伊", "精绝女王湿身"],
+      "dialogue_lines": [
+        {"speaker": "解伊", "text": "刚才她还是……！现在怎么就……", "emotion": "惊恐、难以置信", "mouth_face": "嘴唇颤抖，声音断裂"}
+      ],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_01_P01", "time_range": "0s-2s", "exact_action": "亚特僵硬地继续回头，浴池水雾里绝美女王轮廓已经成形", "camera_design": "50mm过肩中景，缓慢环绕亚特右肩", "character_position": "亚特左前景半背对镜头，女王在后景浴池中央，解伊右侧边缘惊恐", "environment_motion": "水雾翻卷，花瓣落入池水，乳白反光照亮三人脸部", "dialogue": null, "visual_goal": "承接EP27钩子，让亚特看见女王新形态"},
+        {"panel_id": "block_01_P02", "time_range": "2s-4s", "exact_action": "精绝女王湿身站在浴池中，长发、水雾和花瓣遮挡身体，只露出危险眼神", "camera_design": "85mm人物特写，浅景深，眼神对焦", "character_position": "女王面部居中，水雾和长发在前后景遮挡，亚特肩线虚化在前景", "environment_motion": "水珠沿发梢滴落，雾气绕过脸侧，眼神光清晰", "dialogue": null, "visual_goal": "表现女王美貌与危险并存，避免露骨"},
+        {"panel_id": "block_01_P03", "time_range": "4s-6s", "exact_action": "解伊后退半步，指向浴池却说不完整一句话", "camera_design": "85mm解伊特写，轻微手持抖动", "character_position": "解伊在右前景，亚特半转身在左中景，女王后景模糊", "environment_motion": "解伊衣袖抖动，水雾贴地漂过脚边", "dialogue": {"speaker": "解伊", "text": "刚才她还是……！现在怎么就……", "emotion": "惊恐、难以置信", "mouth_face": "嘴唇颤抖，声音断裂"}, "visual_goal": "交代她仍记得刚才的异化老妇形态"},
+        {"panel_id": "block_01_P04", "time_range": "6s-8s", "exact_action": "亚特被美貌震住又立刻后退，抬起双手示弱", "camera_design": "50mm中近景，镜头随亚特后退轻晃", "character_position": "亚特前景中央后退，女王在浴池后景，解伊右后侧紧张", "environment_motion": "亚特衣摆被后退动作甩起，池水反光在他脸上跳动", "dialogue": null, "visual_goal": "让亚特从惊恐转为求生式讨好"},
+        {"panel_id": "block_01_P05", "time_range": "8s-10s", "exact_action": "亚特急忙赔笑，弯腰拱手自称巫幽门新任掌门", "camera_design": "50mm双人近景，亚特脸和手部对焦", "character_position": "亚特左前景拱手，女王右后景冷眼俯视，解伊边缘观察", "environment_motion": "水雾从亚特手边飘过，高窗冷光打出手背高光", "dialogue": {"speaker": "亚特", "text": "巫幽门，新任掌门亚特，无意冒犯，请女王见谅。", "emotion": "讨好、惊慌、强装镇定", "mouth_face": "笑容僵硬，语速加快，眼神闪避"}, "visual_goal": "交代亚特身份并试图求饶"},
+        {"panel_id": "block_01_P06", "time_range": "10s-12s", "exact_action": "女王不回应，只微微垂眼看亚特，水雾中的枝条阴影开始抬起", "camera_design": "35mm三人中景，镜头缓慢推向女王手腕", "character_position": "女王在后景中心高位，亚特前景低头，解伊右侧紧张看向女王手", "environment_motion": "枝条影子在墙面蠕动，池水微光增强", "dialogue": null, "visual_goal": "预告女王即将出手"}
+      ]
+    },
+    {
+      "block_id": "block_02",
+      "duration": 10,
+      "source_script_text": "精绝女王手一晃动，一根树条飞出缠住亚特，把亚特吊向屋顶，亚特喊叫自己是巫幽门人，梵玄是师傅。",
+      "scene_location": "精绝宫殿卧室浴池边与屋顶枝条，白天",
+      "characters": ["亚特", "解伊", "精绝女王湿身"],
+      "dialogue_lines": [
+        {"speaker": "亚特", "text": "精绝女王我是巫幽门人，梵玄是我师傅！", "emotion": "慌张、求饶、急喊", "mouth_face": "嘴张大，眉头上挑，呼吸急促"}
+      ],
+      "panel_count": 4,
+      "panel_plan": [
+        {"panel_id": "block_02_P01", "time_range": "0s-2s", "exact_action": "精绝女王手腕轻轻一晃，枝条从浴池边阴影中直接破空射出", "camera_design": "50mm手部近景，快速跟随枝条出手方向", "character_position": "女王手在右前景，亚特在左中景尚未反应，解伊后方惊住", "environment_motion": "水雾被枝条切开，花瓣被气流卷起", "dialogue": null, "visual_goal": "动作第一格直接开始，表现女王出手极轻却致命"},
+        {"panel_id": "block_02_P02", "time_range": "2s-4s", "exact_action": "枝条缠住亚特腰身和手臂，亚特双脚离地前身体猛地一折", "camera_design": "35mm动作中景，轻微手持快速推近", "character_position": "亚特居中被枝条缠住，女王在右后景冷眼，解伊左后侧后退", "environment_motion": "衣摆被拉力甩起，枝条表皮蠕动，水雾向上卷", "dialogue": null, "visual_goal": "清楚呈现亚特被抓住的瞬间"},
+        {"panel_id": "block_02_P03", "time_range": "4s-7s", "exact_action": "亚特被枝条猛地吊向屋顶，双腿乱蹬，双手试图掰开枝条", "camera_design": "24mm竖向仰拍全景，镜头快速上扬", "character_position": "亚特从下方中景被拉到上方，女王和解伊在地面小比例", "environment_motion": "屋顶花朵被冲击震动，水滴和花瓣向下落", "dialogue": {"speaker": "亚特", "text": "精绝女王我是巫幽门人，梵玄是我师傅！", "emotion": "慌张、求饶、急喊", "mouth_face": "嘴张大，眉头上挑，呼吸急促"}, "visual_goal": "表现亚特失控被吊起，并把巫幽门信息说出"},
+        {"panel_id": "block_02_P04", "time_range": "7s-10s", "exact_action": "亚特悬在屋顶下方晃动，女王毫无表情，解伊在下方抬头惊慌", "camera_design": "24mm低角度全景，稳定构图", "character_position": "亚特上方中心，女王下方右侧，解伊下方左侧，枝条贯穿上下空间", "environment_motion": "枝条缓慢收紧，亚特衣摆摆动，水雾和花瓣持续下落", "dialogue": null, "visual_goal": "建立女王已完全掌控亚特"}
+      ]
+    },
+    {
+      "block_id": "block_03",
+      "duration": 12,
+      "source_script_text": "轰隆破门声，楼兰王冲进精绝宫殿寝宫，众人看向楼兰王。楼兰王狞笑：魔娅转世，哪里跑！",
+      "scene_location": "精绝宫殿卧室门口，白天，破门瞬间",
+      "characters": ["亚特", "解伊", "精绝女王湿身", "楼兰王"],
+      "dialogue_lines": [
+        {"speaker": "楼兰王", "text": "魔娅转世，哪里跑！", "emotion": "狞笑、追捕、兴奋", "mouth_face": "咧嘴露齿，眼神锁定解伊"}
+      ],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_03_P01", "time_range": "0s-2s", "exact_action": "卧室大门被外力撞响，门板裂开，众人同时转头", "camera_design": "24mm全景，镜头从房内看向门口", "character_position": "亚特悬在上方，解伊在左中景，女王在右后景，门口在画面中央", "environment_motion": "门缝喷出尘土，纱幔被震动掀起", "dialogue": null, "visual_goal": "用破门前震动打断女王控制局面"},
+        {"panel_id": "block_03_P02", "time_range": "2s-4s", "exact_action": "大门轰然破开，碎木和尘土向寝宫内炸开", "camera_design": "24mm广角动作全景，轻微震动", "character_position": "门板碎片占前景，楼兰王轮廓在门外逆光中显现", "environment_motion": "木屑飞散，灰尘爆开，帷幔被冲击波掀动", "dialogue": null, "visual_goal": "表现楼兰王强行闯入"},
+        {"panel_id": "block_03_P03", "time_range": "4s-6s", "exact_action": "楼兰王冲进寝宫，身体前倾，凶狠扫视室内", "camera_design": "35mm低角度中景，快速向后拉保持距离", "character_position": "楼兰王在前景中央冲入，解伊在左后方，女王右后方，亚特上方", "environment_motion": "楼兰王衣摆和鳞片随冲刺抖动，尘土绕脚翻起", "dialogue": null, "visual_goal": "建立新的外部威胁进入空间"},
+        {"panel_id": "block_03_P04", "time_range": "6s-8s", "exact_action": "解伊惊慌看向楼兰王，亚特悬在上方也停住挣扎", "camera_design": "50mm反应中景，横移连接二人视线", "character_position": "解伊在左前景回头，亚特在上方虚化，楼兰王后景逼近", "environment_motion": "枝条悬吊仍在晃，尘土穿过冷光", "dialogue": null, "visual_goal": "让观众看懂所有人注意力转向门口"},
+        {"panel_id": "block_03_P05", "time_range": "8s-10s", "exact_action": "楼兰王狞笑着锁定解伊，抬手指向她", "camera_design": "50mm近景，楼兰王脸部和手指对焦", "character_position": "楼兰王占前景中央，解伊在镜头深处被指向", "environment_motion": "尘埃贴着他脸侧流动，门外强光勾出轮廓", "dialogue": {"speaker": "楼兰王", "text": "魔娅转世，哪里跑！", "emotion": "狞笑、追捕、兴奋", "mouth_face": "咧嘴露齿，眼神锁定解伊"}, "visual_goal": "交代楼兰王追捕解伊的目的"},
+        {"panel_id": "block_03_P06", "time_range": "10s-12s", "exact_action": "楼兰王从门口朝解伊猛冲，解伊转身准备逃", "camera_design": "35mm中景，镜头快速横移跟随冲刺方向", "character_position": "楼兰王左前景冲向右侧，解伊右中景转身，女王后景冷眼旁观", "environment_motion": "碎木被踩开，纱幔向冲刺方向飘动", "dialogue": null, "visual_goal": "把追捕动作推入下一段抓腕"}
+      ]
+    },
+    {
+      "block_id": "block_04",
+      "duration": 10,
+      "source_script_text": "解伊转身欲逃，被楼兰王一把扣住手腕。精绝女王缓缓从浴池站起，走出浴池。",
+      "scene_location": "精绝宫殿卧室门口到浴池之间，白天",
+      "characters": ["解伊", "楼兰王", "亚特", "精绝女王湿身"],
+      "dialogue_lines": [],
+      "panel_count": 4,
+      "panel_plan": [
+        {"panel_id": "block_04_P01", "time_range": "0s-2s", "exact_action": "解伊直接转身奔逃，楼兰王从侧后方伸手追抓", "camera_design": "35mm动作中景，手持侧跟", "character_position": "解伊右前景向外逃，楼兰王左后景扑上，亚特悬在上方边缘", "environment_motion": "解伊裙摆和发丝向后甩，尘土被脚步卷起", "dialogue": null, "visual_goal": "动作从逃跑开始，不做平静铺垫"},
+        {"panel_id": "block_04_P02", "time_range": "2s-4s", "exact_action": "楼兰王一把扣住解伊手腕，解伊身体被猛地拽回", "camera_design": "85mm手腕特写，快速拉焦到受力点", "character_position": "楼兰王粗重手掌从左侧抓住解伊右手腕，解伊手指张开挣扎", "environment_motion": "衣袖被拉紧，手腕皮肤受力变形，尘埃贴着手部飞散", "dialogue": null, "visual_goal": "清楚呈现解伊被抓住"},
+        {"panel_id": "block_04_P03", "time_range": "4s-7s", "exact_action": "解伊回身挣扎，楼兰王用力拖住她，亚特在上方焦急晃动", "camera_design": "35mm中景，轻微手持抖动", "character_position": "解伊在右前景被拖住，楼兰王左前景前压，亚特上方背景悬吊", "environment_motion": "枝条吊着亚特晃动，碎木和花瓣被动作扰乱", "dialogue": null, "visual_goal": "建立解伊陷入楼兰王控制"},
+        {"panel_id": "block_04_P04", "time_range": "7s-10s", "exact_action": "精绝女王从浴池缓缓站起并迈出水面，楼兰王还抓着解伊却开始被吸引", "camera_design": "24mm全景低角度，女王从后景升为视觉中心", "character_position": "女王在后景浴池中央高位，楼兰王和解伊在前景拉扯，亚特上方", "environment_motion": "水珠滴落，水雾和花瓣遮挡女王身体，池水反光加强", "dialogue": null, "visual_goal": "让女王的起身动作改变空间权力关系"}
+      ]
+    },
+    {
+      "block_id": "block_05",
+      "duration": 12,
+      "source_script_text": "精绝女王湿身而立，水珠滴落，风华绝代。楼兰王看直了眼，口水直流，不自觉松开解伊。",
+      "scene_location": "精绝宫殿卧室浴池边，白天，水雾与高窗光",
+      "characters": ["精绝女王湿身", "楼兰王", "解伊"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_05_P01", "time_range": "0s-2s", "exact_action": "精绝女王从浴池边迈出，水雾、长发和花瓣遮挡身体轮廓", "camera_design": "35mm低角度中景，镜头缓慢上移到脸", "character_position": "女王居中前景，楼兰王和解伊在左后方被压小", "environment_motion": "水珠沿发梢和衣料边缘滴落，乳白雾气绕脚流动", "dialogue": null, "visual_goal": "表现女王危险美感，不出现露骨细节"},
+        {"panel_id": "block_05_P02", "time_range": "2s-4s", "exact_action": "女王抬眼看向楼兰王，冷艳眼神压住全场", "camera_design": "85mm女王特写，眼神和脸部补光清晰", "character_position": "女王脸部居中，前景有水雾遮挡边缘，楼兰王虚化在反方向", "environment_motion": "眼神光稳定，水雾流过颧骨边缘，发丝轻动", "dialogue": null, "visual_goal": "让观众理解楼兰王被美色震慑"},
+        {"panel_id": "block_05_P03", "time_range": "4s-6s", "exact_action": "楼兰王看直了眼，嘴角失控，抓着解伊的手开始松力", "camera_design": "85mm楼兰王特写，脸部夸张反应对焦", "character_position": "楼兰王占前景，解伊手腕在画面下方仍被抓住", "environment_motion": "尘埃停在他脸侧，门外光勾出鳞片边缘", "dialogue": null, "visual_goal": "表现楼兰王被女王吸引到失神"},
+        {"panel_id": "block_05_P04", "time_range": "6s-8s", "exact_action": "楼兰王手指不自觉松开解伊手腕，解伊立刻抽手后退", "camera_design": "100mm手部特写，手腕和指尖精准对焦", "character_position": "楼兰王手从左侧松开，解伊手腕向右后撤", "environment_motion": "衣袖弹回，手腕处微光闪动，尘粒被后撤带开", "dialogue": null, "visual_goal": "清楚表现解伊获得短暂脱身机会"},
+        {"panel_id": "block_05_P05", "time_range": "8s-10s", "exact_action": "解伊退到一侧揉着手腕，警惕地看着女王和楼兰王", "camera_design": "50mm解伊近景，手腕和脸部交替对焦", "character_position": "解伊在右前景，楼兰王左中景失神，女王后景中心", "environment_motion": "解伊衣袖轻抖，浴池雾气持续向外扩散", "dialogue": null, "visual_goal": "表现解伊逃离抓握但仍被困"},
+        {"panel_id": "block_05_P06", "time_range": "10s-12s", "exact_action": "女王嘴角冷笑，身侧枝条在水雾中蓄势抬起", "camera_design": "50mm中近景，女王脸到枝条拉焦", "character_position": "女王在中央，枝条从右前景抬起，楼兰王在左后方仍痴看", "environment_motion": "枝条表皮蠕动，水珠从枝条尖端甩落", "dialogue": null, "visual_goal": "预告女王即将惩戒楼兰王"}
+      ]
+    },
+    {
+      "block_id": "block_06",
+      "duration": 12,
+      "source_script_text": "精绝女王冷笑，枝条一挥，抽在楼兰王脸上。楼兰王被抽翻在地，捂着脸惨叫，晕倒在地。",
+      "scene_location": "精绝宫殿卧室，白天，门口碎木与浴池水雾之间",
+      "characters": ["精绝女王湿身", "楼兰王", "解伊", "亚特"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_06_P01", "time_range": "0s-2s", "exact_action": "女王冷笑时枝条直接从她身侧挥起，空气被抽出弧线", "camera_design": "50mm中近景，镜头跟随枝条起势", "character_position": "女王右前景冷笑，楼兰王左中景仍失神，解伊后退在右后方", "environment_motion": "枝条带起水珠和雾气，花瓣被气流卷开", "dialogue": null, "visual_goal": "动作第一格直接进入抽击起势"},
+        {"panel_id": "block_06_P02", "time_range": "2s-4s", "exact_action": "枝条横向抽在楼兰王脸侧，楼兰王头部被打偏", "camera_design": "35mm动作中景，快速横摇跟随抽击方向", "character_position": "楼兰王居中受击，枝条从右侧横扫，解伊后方避开", "environment_motion": "冲击带起尘土和水珠，楼兰王发丝与衣领甩开", "dialogue": null, "visual_goal": "清楚表现女王惩戒楼兰王"},
+        {"panel_id": "block_06_P03", "time_range": "4s-6s", "exact_action": "楼兰王身体侧翻飞出，脚下碎木被踢散", "camera_design": "24mm全景，低角度跟随身体飞出", "character_position": "楼兰王从中景飞向左前景，女王右后景稳定站立，亚特上方看呆", "environment_motion": "碎木、尘土、花瓣同时飞散，枝条余势划过空中", "dialogue": null, "visual_goal": "表现女王力量压倒楼兰王"},
+        {"panel_id": "block_06_P04", "time_range": "6s-8s", "exact_action": "楼兰王摔在门口附近，捂着脸痛苦翻滚", "camera_design": "35mm低机位近景，地面视角", "character_position": "楼兰王倒在前景门口，解伊在中景后退，女王远处冷眼", "environment_motion": "地面灰尘震起，木屑在他身边滑动", "dialogue": null, "visual_goal": "表现楼兰王被打倒但避免血腥细节"},
+        {"panel_id": "block_06_P05", "time_range": "8s-10s", "exact_action": "楼兰王动作逐渐停下，晕倒在地，手仍捂着脸", "camera_design": "50mm中景，镜头缓慢下降稳定", "character_position": "楼兰王横倒前景，门洞后方透光，其他人在远处", "environment_motion": "尘土慢慢落下，门外光线照出身体轮廓", "dialogue": null, "visual_goal": "确认楼兰王暂时失去威胁"},
+        {"panel_id": "block_06_P06", "time_range": "10s-12s", "exact_action": "女王收回枝条，解伊和亚特同时看向她，空间重新被她掌控", "camera_design": "24mm全景，稳定对称构图", "character_position": "女王在后景中心，解伊右侧，亚特上方，楼兰王倒在左前景", "environment_motion": "枝条缓慢缩回，水雾回到女王身边，花瓣继续落下", "dialogue": null, "visual_goal": "把权力中心重新交还给女王"}
+      ]
+    },
+    {
+      "block_id": "block_07",
+      "duration": 10,
+      "source_script_text": "精绝女王枝条卷来衣物，瞬间穿好。精绝女王常态呵斥：凡夫俗子，也配窥我？亚特被吊着说自己才是自己人。",
+      "scene_location": "精绝宫殿卧室浴池边，白天，衣料与水雾转场",
+      "characters": ["精绝女王常态", "精绝女王湿身", "亚特", "解伊", "楼兰王"],
+      "dialogue_lines": [
+        {"speaker": "精绝女王", "text": "凡夫俗子，也配窥我？", "emotion": "冷傲、厌恶、威压", "mouth_face": "唇线冷硬，眼神向下压"},
+        {"speaker": "亚特", "text": "对吗，我才是自己人，放我下来。", "emotion": "讨好、心虚、求生", "mouth_face": "悬空苦笑，声音发飘"}
+      ],
+      "panel_count": 4,
+      "panel_plan": [
+        {"panel_id": "block_07_P01", "time_range": "0s-2s", "exact_action": "枝条卷起衣物从屏幕前方掠过，水雾和布料遮住女王完成转场", "camera_design": "35mm快切中景，衣料擦镜转场", "character_position": "女王在中景被衣料和雾气遮挡，亚特上方悬吊，解伊侧面观看", "environment_motion": "衣料旋转，水珠被甩开，雾气被搅动", "dialogue": null, "visual_goal": "用非露骨方式完成湿身到常态转换"},
+        {"panel_id": "block_07_P02", "time_range": "2s-5s", "exact_action": "精绝女王常态站定，衣饰完整，冷冷看向倒地楼兰王", "camera_design": "50mm中近景，脸部与衣饰边缘高光清晰", "character_position": "女王居中前景，楼兰王倒在左后方，解伊右后方，亚特上方", "environment_motion": "衣料余摆落下，水雾贴地散开，轮廓光剥离女王身形", "dialogue": {"speaker": "精绝女王", "text": "凡夫俗子，也配窥我？", "emotion": "冷傲、厌恶、威压", "mouth_face": "唇线冷硬，眼神向下压"}, "visual_goal": "建立女王常态的威严和羞辱楼兰王"},
+        {"panel_id": "block_07_P03", "time_range": "5s-8s", "exact_action": "亚特在上方被吊着晃，低头讨好女王说自己才是自己人", "camera_design": "35mm仰拍中景，亚特脸部补光清楚", "character_position": "亚特悬在上方中央，女王下方右侧抬头看他，枝条连接上下", "environment_motion": "枝条轻微收紧，亚特衣摆晃动，花瓣从屋顶落下", "dialogue": {"speaker": "亚特", "text": "对吗，我才是自己人，放我下来。", "emotion": "讨好、心虚、求生", "mouth_face": "悬空苦笑，声音发飘"}, "visual_goal": "表现亚特试图攀关系自救"},
+        {"panel_id": "block_07_P04", "time_range": "8s-10s", "exact_action": "女王没有理会亚特，目光转向解伊，手指微动", "camera_design": "85mm女王手眼切换特写，浅景深", "character_position": "女王面部在右前景，手指在下方前景，解伊虚化在左后景", "environment_motion": "枝条影子在地面向解伊方向爬行，水雾变冷", "dialogue": null, "visual_goal": "预告解伊即将被抓"}
+      ]
+    },
+    {
+      "block_id": "block_08",
+      "duration": 12,
+      "source_script_text": "一根枝条破空而出，死死缠住解伊腰肢。解伊被猛地拉起，尖叫一声。枝条将解伊吊到亚特身旁，二人悬空相对。",
+      "scene_location": "精绝宫殿卧室，白天，屋顶枝条密布",
+      "characters": ["亚特", "解伊", "精绝女王常态"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_08_P01", "time_range": "0s-2s", "exact_action": "枝条从地面阴影中破空射向解伊腰侧，解伊刚转身想躲", "camera_design": "35mm动作中景，快速横移跟枝条方向", "character_position": "解伊右前景转身，枝条从左下方射入，女王后景手指微动", "environment_motion": "枝条掀起尘埃和花瓣，解伊衣裙被气流卷起", "dialogue": null, "visual_goal": "动作直接从枝条攻击开始"},
+        {"panel_id": "block_08_P02", "time_range": "2s-4s", "exact_action": "枝条缠住解伊腰肢并猛然收紧，解伊低头抓住枝条挣扎", "camera_design": "50mm中近景，腰部缠绕点对焦", "character_position": "解伊居中前景，枝条环绕腰部，女王在后方冷眼", "environment_motion": "衣料被勒出褶皱，枝条表皮蠕动，水雾从地面升起", "dialogue": null, "visual_goal": "清楚呈现解伊被控制"},
+        {"panel_id": "block_08_P03", "time_range": "4s-6s", "exact_action": "解伊被猛地拉离地面，双手下意识向下抓空气", "camera_design": "24mm竖向全景，镜头快速上摇", "character_position": "解伊从画面下方被拉向上方，亚特已悬在左上，女王在地面中心", "environment_motion": "裙摆和发丝向下甩动，花瓣和水雾跟随上卷", "dialogue": null, "visual_goal": "表现解伊被吊起的强烈动作"},
+        {"panel_id": "block_08_P04", "time_range": "6s-8s", "exact_action": "亚特在半空中看着解伊被吊上来，表情从讨好变成惊慌", "camera_design": "50mm半空双人中景，轻微手持摇晃", "character_position": "亚特左上方，解伊右下方正在上升，枝条从屋顶交错", "environment_motion": "枝条拉动造成二人身体摆动，花朵被震落", "dialogue": null, "visual_goal": "让二人悬空关系形成"},
+        {"panel_id": "block_08_P05", "time_range": "8s-10s", "exact_action": "枝条将解伊吊到亚特身旁，二人悬空相对，距离很近却无法互救", "camera_design": "35mm中景，半空水平构图", "character_position": "亚特左侧被吊，解伊右侧被吊，女王在下方后景掌控", "environment_motion": "枝条轻微收紧，二人衣摆相反方向摆动", "dialogue": null, "visual_goal": "建立双人同时被擒的局面"},
+        {"panel_id": "block_08_P06", "time_range": "10s-12s", "exact_action": "女王站在下方抬眼看着悬空二人，手指仍控制枝条", "camera_design": "24mm低角度全景，从女王身后仰看半空", "character_position": "女王下方背影居中，亚特和解伊悬在上方两侧", "environment_motion": "屋顶枝条像网一样慢慢蠕动，水雾绕着女王脚边", "dialogue": null, "visual_goal": "表现女王以低位掌控高处二人"}
+      ]
+    },
+    {
+      "block_id": "block_09",
+      "duration": 12,
+      "source_script_text": "亚特急喊：精绝，你敢对抗我巫幽门！精绝女王回眸：巫幽门早已覆灭，凭你？",
+      "scene_location": "精绝宫殿卧室半空与地面，白天",
+      "characters": ["亚特", "解伊", "精绝女王常态"],
+      "dialogue_lines": [
+        {"speaker": "亚特", "text": "精绝，你敢对抗我巫幽门！", "emotion": "慌张中强撑威胁", "mouth_face": "喊得用力，眼神发虚"},
+        {"speaker": "精绝女王", "text": "巫幽门早已覆灭，凭你？", "emotion": "冷笑、轻蔑、压迫", "mouth_face": "微微回眸，唇角冷硬"}
+      ],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_09_P01", "time_range": "0s-2s", "exact_action": "亚特和解伊悬空相对，解伊惊魂未定地喘息", "camera_design": "50mm半空双人中景，轻微摆动跟拍", "character_position": "亚特左侧，解伊右侧，二人被枝条吊在同一高度", "environment_motion": "枝条慢慢收紧，二人衣摆和发丝轻摆", "dialogue": null, "visual_goal": "确认二人都已被擒"},
+        {"panel_id": "block_09_P02", "time_range": "2s-4s", "exact_action": "亚特突然对下方女王喊话，用巫幽门名头威胁她", "camera_design": "50mm亚特近景，仰拍转平视，脸部补光清楚", "character_position": "亚特前景悬空，女王在下方后景虚化，解伊侧边看他", "environment_motion": "亚特身体因喊叫晃动，枝条摩擦衣料", "dialogue": {"speaker": "亚特", "text": "精绝，你敢对抗我巫幽门！", "emotion": "慌张中强撑威胁", "mouth_face": "喊得用力，眼神发虚"}, "visual_goal": "让亚特搬出巫幽门威胁女王"},
+        {"panel_id": "block_09_P03", "time_range": "4s-6s", "exact_action": "女王原本背向二人走动，听到巫幽门后停步", "camera_design": "35mm地面中景，女王背影居中", "character_position": "女王下方背对镜头，悬空二人在高处虚化", "environment_motion": "水雾在她脚边停滞，纱幔轻轻一顿", "dialogue": null, "visual_goal": "制造女王回应前的压迫停顿"},
+        {"panel_id": "block_09_P04", "time_range": "6s-8s", "exact_action": "精绝女王缓慢回眸，阴鸷眼神斜看向半空亚特", "camera_design": "85mm女王回眸特写，眼神对焦", "character_position": "女王脸部右前景，亚特在左后方高处虚化", "environment_motion": "轮廓光勾出女王侧脸，水雾从颧骨边缘流过", "dialogue": null, "visual_goal": "让女王气场反压亚特"},
+        {"panel_id": "block_09_P05", "time_range": "8s-10s", "exact_action": "女王冷声说巫幽门早已覆灭，凭你，亚特脸色瞬间变白", "camera_design": "50mm女王近景转亚特反应，轻微推拉", "character_position": "女王前景说话，亚特后景被枝条吊住，解伊侧面震惊", "environment_motion": "枝条轻响，花瓣从二人之间落下", "dialogue": {"speaker": "精绝女王", "text": "巫幽门早已覆灭，凭你？", "emotion": "冷笑、轻蔑、压迫", "mouth_face": "微微回眸，唇角冷硬"}, "visual_goal": "揭穿亚特依仗失效"},
+        {"panel_id": "block_09_P06", "time_range": "10s-12s", "exact_action": "亚特和解伊同时意识到局势更糟，二人悬空看向女王", "camera_design": "24mm全景，低角度包含上下空间", "character_position": "女王在下方中心，亚特和解伊上方两侧，空间呈三角压制", "environment_motion": "屋顶枝条密布，水雾在下方聚拢，宫灯微晃", "dialogue": null, "visual_goal": "完成权力关系反转"}
+      ]
+    },
+    {
+      "block_id": "block_10",
+      "duration": 14,
+      "source_script_text": "精绝女王走向床榻，抬手拉开纱帘，床榻上躺着昏迷的秦汉。解伊与亚特同时失声：秦汉！",
+      "scene_location": "精绝宫殿卧室床榻与纱帘前，白天",
+      "characters": ["精绝女王常态", "亚特", "解伊", "秦汉"],
+      "dialogue_lines": [
+        {"speaker": "解伊与亚特", "text": "秦汉！", "emotion": "震惊、担忧、失声", "mouth_face": "同时张口，眼睛睁大"}
+      ],
+      "panel_count": 8,
+      "panel_plan": [
+        {"panel_id": "block_10_P01", "time_range": "0s-2s", "exact_action": "女王转身走向床榻，悬空的亚特和解伊在后方被枝条吊住", "camera_design": "35mm中景，镜头从女王侧后方跟随", "character_position": "女王前景背影走向床榻，二人悬在后景上方", "environment_motion": "纱帘轻摆，水雾从浴池方向追随女王脚步", "dialogue": null, "visual_goal": "把注意力引向床榻秘密"},
+        {"panel_id": "block_10_P02", "time_range": "2s-4s", "exact_action": "女王抬手抓住床榻纱帘，指尖压住轻薄帘布", "camera_design": "85mm手部特写，指尖和纱帘纹理对焦", "character_position": "女王手从右侧进入画面，纱帘占中央，床内阴影在后方", "environment_motion": "纱帘被手指牵动，细尘从帘上抖落", "dialogue": null, "visual_goal": "制造拉开纱帘前的悬念"},
+        {"panel_id": "block_10_P03", "time_range": "4s-6s", "exact_action": "纱帘被缓缓拉开，床榻内部暗影露出一角白发", "camera_design": "50mm中近景，缓慢推向床内", "character_position": "女王侧影在右前景，床榻居中，悬空二人在远处虚化", "environment_motion": "纱帘向一侧滑动，光线一点点照进床榻", "dialogue": null, "visual_goal": "让观众先看见秦汉白发线索"},
+        {"panel_id": "block_10_P04", "time_range": "6s-8s", "exact_action": "床榻上昏迷的秦汉显露出来，白发散在枕边，呼吸微弱", "camera_design": "85mm秦汉特写，脸部柔和补光", "character_position": "秦汉躺在画面中央，女王手在前景边缘，纱帘虚化", "environment_motion": "纱帘余摆轻晃，床边尘埃在光束中流动", "dialogue": null, "visual_goal": "正式揭露秦汉被女王藏在床榻上"},
+        {"panel_id": "block_10_P05", "time_range": "8s-10s", "exact_action": "解伊和亚特悬在半空同时看见秦汉，身体猛地前倾", "camera_design": "50mm半空双人中景，快速拉焦到二人脸", "character_position": "解伊右侧、亚特左侧同时悬空，床榻在下方后景", "environment_motion": "枝条因二人前倾而晃动，衣摆向前甩", "dialogue": {"speaker": "解伊与亚特", "text": "秦汉！", "emotion": "震惊、担忧、失声", "mouth_face": "同时张口，眼睛睁大"}, "visual_goal": "用二人反应确认秦汉身份"},
+        {"panel_id": "block_10_P06", "time_range": "10s-11.5s", "exact_action": "解伊盯着秦汉，眼神从恐惧变成担忧和无力", "camera_design": "85mm解伊特写，眼睛和脸部对焦", "character_position": "解伊脸部前景，秦汉床榻在她视线方向虚化", "environment_motion": "眼神光颤动，枝条轻轻勒住腰部", "dialogue": null, "visual_goal": "强化解伊对秦汉的情感反应"},
+        {"panel_id": "block_10_P07", "time_range": "11.5s-13s", "exact_action": "女王站在床榻旁俯视秦汉，手停在他白发上方", "camera_design": "50mm中近景，高低关系构图", "character_position": "女王右前景站立，秦汉躺在下方左侧，二人悬空在后景", "environment_motion": "纱帘在女王身后轻飘，床边光线变暖", "dialogue": null, "visual_goal": "建立女王对秦汉的占有姿态"},
+        {"panel_id": "block_10_P08", "time_range": "13s-14s", "exact_action": "镜头从秦汉白发推到女王冷艳侧脸，悬念压住全场", "camera_design": "85mm细节推拉，白发到女王脸部换焦", "character_position": "秦汉白发在前景，女王脸在后景逐渐清晰", "environment_motion": "纱帘和发丝轻动，轮廓光勾出女王侧脸", "dialogue": null, "visual_goal": "为女王宣告秦汉归属做准备"}
+      ]
+    },
+    {
+      "block_id": "block_11",
+      "duration": 12,
+      "source_script_text": "精绝女王轻抚秦汉鬓角白发：从今往后，他是我的人。精绝女王看向镜头。字幕：美人一怒擒双客，将军沉睡落妖掌。",
+      "scene_location": "精绝宫殿卧室床榻旁，白天，结尾钩子",
+      "characters": ["精绝女王常态", "秦汉", "亚特", "解伊"],
+      "dialogue_lines": [
+        {"speaker": "精绝女王", "text": "从今往后，他是我的人。", "emotion": "占有、冷静、危险", "mouth_face": "语速慢，唇角微冷，眼神压迫"}
+      ],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_11_P01", "time_range": "0s-2s", "exact_action": "精绝女王俯身靠近昏迷秦汉，目光停在他白发上", "camera_design": "50mm床榻中近景，轻微俯拍", "character_position": "女王在右前景俯身，秦汉躺在左下方，悬空二人在后景虚化", "environment_motion": "纱帘轻动，床边暖光与高窗冷光交错", "dialogue": null, "visual_goal": "表现女王对秦汉的占有欲"},
+        {"panel_id": "block_11_P02", "time_range": "2s-4s", "exact_action": "女王手指轻轻抚过秦汉鬓角白发，动作慢而危险", "camera_design": "100mm手与白发极近特写，手背和发丝对焦", "character_position": "女王手从右侧进入，秦汉白发和鬓角占中央", "environment_motion": "白发被指尖拨动，细尘在光中漂浮", "dialogue": null, "visual_goal": "突出秦汉白发和女王触碰的关键道具感"},
+        {"panel_id": "block_11_P03", "time_range": "4s-6s", "exact_action": "秦汉闭眼昏迷，呼吸微弱，对女王触碰没有反应", "camera_design": "85mm秦汉脸部特写，柔光补脸", "character_position": "秦汉脸部居中，女王手在画面边缘停留", "environment_motion": "纱帘阴影在秦汉脸上轻晃，胸口轻微起伏", "dialogue": null, "visual_goal": "确认秦汉无力反抗"},
+        {"panel_id": "block_11_P04", "time_range": "6s-8s", "exact_action": "女王抬眼看向悬空二人，冷静宣告秦汉归她所有", "camera_design": "50mm女王近景，脸部和眼神光清晰", "character_position": "女王在前景右侧，秦汉在下方，亚特解伊悬在后景上方", "environment_motion": "轮廓光从纱帘后切出女王侧脸，枝条微微收紧", "dialogue": {"speaker": "精绝女王", "text": "从今往后，他是我的人。", "emotion": "占有、冷静、危险", "mouth_face": "语速慢，唇角微冷，眼神压迫"}, "visual_goal": "完成本集核心反转宣告"},
+        {"panel_id": "block_11_P05", "time_range": "8s-10s", "exact_action": "解伊和亚特悬空震惊无力，二人同时看向秦汉和女王", "camera_design": "50mm半空双人反应中景，轻微手持", "character_position": "解伊右侧、亚特左侧，枝条缠住二人，床榻在下方远景", "environment_motion": "二人身体微微晃动，花瓣从二人之间落下", "dialogue": null, "visual_goal": "表现双客被擒且无法救秦汉"},
+        {"panel_id": "block_11_P06", "time_range": "10s-12s", "exact_action": "女王缓缓转头看向镜头，秦汉躺在她身旁，悬空二人在后景形成压迫构图", "camera_design": "35mm结尾中景，缓慢推近女王眼神", "character_position": "女王在前景中心看镜头，秦汉在左下，亚特解伊悬在后景两侧", "environment_motion": "纱帘、花瓣、枝条和水雾缓慢运动，轮廓光清晰", "dialogue": null, "visual_goal": "形成美人一怒擒双客，将军沉睡落妖掌的结尾钩子"}
+      ]
+    }
+  ]
+}

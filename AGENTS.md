@@ -12,7 +12,7 @@
 当前核心流程位于：
 
 ```text
-17_cherry_pipeline/
+05_pipeline/
 ```
 
 ## 输出语言与沟通风格
@@ -29,7 +29,7 @@
 
 - 当前是否存在 Git 仓库。
 - 用户是否新增了脚本、素材、规则、模板或目录。
-- `17_cherry_pipeline/` 内的代码、输入、输出是否已被更新。
+- `05_pipeline/` 内的代码是否已被更新；`02_input/`、`03_assets/`、`06_output/` 是否有新增或变更。
 - 新增文件是否会影响既有流程、模板或输出结构。
 
 除非用户明确要求，否则不要直接重构、迁移或归档已有核心文件。
@@ -62,7 +62,7 @@ AGENTS_changelog.md
 - `02_input/`：原始脚本、待处理输入材料。
 - `03_assets/`：长期复用人物、场景、道具素材说明。
 - `04_templates/`：提示词模板、gold examples、平台模板。
-- `05_pipeline/`：未来可迁移的自动化流程代码。
+- `05_pipeline/`：当前核心自动化流程代码。
 - `06_output/`：生成结果。
 - `07_review/`：人工审核意见、测试反馈。
 - `08_archive/`：历史版本、废弃方案。
@@ -70,8 +70,8 @@ AGENTS_changelog.md
 
 注意：
 
-- 当前已稳定运行的核心流程仍在 `17_cherry_pipeline/`。
-- 新标准目录目前用于后续整理，不应擅自替代或打散 `17_cherry_pipeline/`。
+- 当前核心流程已位于 `05_pipeline/`。
+- 不得擅自迁移、打散或覆盖 `05_pipeline/` 中的核心脚本。
 - 如需迁移结构，必须先给出迁移方案，经用户确认后执行。
 
 ## 删除与覆盖限制
@@ -108,7 +108,7 @@ Remove-Item "C:\path\to\file.txt"
 核心脚本：
 
 ```text
-17_cherry_pipeline/cherry_pipeline.py
+05_pipeline/cherry_pipeline.py
 ```
 
 当前核心数据流：
@@ -251,13 +251,18 @@ EPXX/
 - 人物、场景、道具以 manifest 为准。
 - 不得引入本集未登记元素。
 - 如果图片缺失或 manifest 路径错误，应先报告并修正。
+- 如果 `assets_manifest.json` 或其他 JSON 文件格式错误，应先直接修正为合法 JSON，并校验可解析、引用路径存在后，再调用该 JSON 文件进入后续流程。
 - 不应把所有素材都塞进每个 block，只写本 block 实际出现的角色、场景、道具。
 
 ## 生成图片规则
 
 当用户要求直接生成分镜草图图片时：
 
-- 先加载对应人物、场景、道具参考图。
+- 必须先加载并上传对应人物、场景、道具参考图，不能只依赖文字描述生成。
+- 优先使用 Codex 内置 `image_gen`，不要求用户提供 `OPENAI_API_KEY`。
+- 正确工作流：先用 `view_image` 逐张加载本地参考图到当前对话上下文，再调用内置 `image_gen` 生成草图。
+- 在生成提示词中必须明确每张参考图的角色，例如 `Reference image 1 = 亚特`、`Reference image 2 = 解伊`、`Reference image 3 = 精绝宫殿大厅`，并要求人物脸型、发型、服装、体型、场景建筑结构和空间比例严格参考对应图片。
+- 不要把“上传本地参考图”机械理解为只能使用 CLI/API。CLI 多图 `edit` 只是备用方案；在本窗口中应优先通过 `view_image` + 内置 `image_gen` 完成无 API key 参考图生图。
 - 再读取对应 `storyboard_prompt.txt`。
 - 每次按 block 单独生成。
 - 多张图片需要按顺序生成，不要并行混乱。
@@ -296,10 +301,10 @@ EPXX/
 5. 运行验证命令。
 6. 汇报结果和文件位置。
 
-涉及 `17_cherry_pipeline/cherry_pipeline.py` 时，修改后至少运行：
+涉及 `05_pipeline/cherry_pipeline.py` 时，修改后至少运行：
 
 ```powershell
-python -m compileall .\17_cherry_pipeline\cherry_pipeline.py
+python -m compileall .\05_pipeline\cherry_pipeline.py
 ```
 
 如修改视频提示词逻辑，应抽查生成结果字数和内容密度。
@@ -312,6 +317,9 @@ python -m compileall .\17_cherry_pipeline\cherry_pipeline.py
 - 不能让两个智能体分别独立理解剧情。
 - 动作 block 第一帧必须直接进入动作。
 - 草图可以有箭头、编号和图例，但视频必须彻底禁止这些草图元素。
+- 生成分镜草图图片时必须上传本地人物、场景、道具参考图；只用文字描述会导致人物形象和场景背景偏离。
+- 无 API key 生图的可复用方法：`view_image` 加载本地人物/场景/道具参考图，再用内置 `image_gen`，提示词中写清 Reference image 编号和身份，逐 block 顺序生成。
+- 遇到 JSON 文件格式错误时，先修正并验证，再继续调用，避免流程读取失败或参考图遗漏。
 - 视频提示词不能压缩成摘要，必须在平台限制内尽量详细。
 - 即梦平台视频提示词建议控制在 1900-2000 字。
 - 光影、补光、脸手对焦是视频生成质量的关键。

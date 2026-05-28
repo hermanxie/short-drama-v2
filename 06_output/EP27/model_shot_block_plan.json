@@ -1,0 +1,151 @@
+{
+  "episode_id": "EP27",
+  "duration_seconds": 96,
+  "shot_blocks": [
+    {
+      "block_id": "block_01",
+      "duration": 12,
+      "source_script_text": "亚特和解伊推开大门，缓步走入精绝宫殿大厅，四处张望，宫殿大厅内空无一人。",
+      "scene_location": "精绝宫殿大厅，白天，巨大殿门与空旷大厅",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_01_P01", "time_range": "0s-2s", "exact_action": "亚特用力推开沉重宫门，解伊贴在他右后方跟入门缝", "camera_design": "24mm广角跟拍全景，轻微手持向前推进", "character_position": "亚特在前景中央背对镜头，解伊在右后侧半遮挡，门缝冷光从两人之间切入", "environment_motion": "门轴缓慢开启，尘埃被光线照亮，纱幔在深处轻晃", "dialogue": null, "visual_goal": "观众立刻看懂二人进入巨大而无人回应的精绝宫殿"},
+        {"panel_id": "block_01_P02", "time_range": "2s-4s", "exact_action": "二人跨过门槛走进大厅，脚步放慢并同时抬头张望", "camera_design": "24mm全景低机位，镜头从门口滑入大厅", "character_position": "亚特在画面左中景，解伊在右中景，二人被巨柱和高顶压小", "environment_motion": "高窗冷光落在地面，空气中尘粒缓慢漂浮", "dialogue": null, "visual_goal": "强调宫殿空旷、人物渺小和无人气氛"},
+        {"panel_id": "block_01_P03", "time_range": "4s-6s", "exact_action": "亚特停步向左看，解伊越过他肩头向右侧深处查看", "camera_design": "35mm中景横移，轻微侧跟", "character_position": "亚特前景左侧半侧脸，解伊后景右侧探身，两人视线分叉", "environment_motion": "远处帷幔细微摆动，门外光线在地面拉长", "dialogue": null, "visual_goal": "建立二人搜寻精绝女王却找不到人的动作"},
+        {"panel_id": "block_01_P04", "time_range": "6s-8s", "exact_action": "镜头反打大厅深处，空门洞层层延伸，没有任何人出现", "camera_design": "50mm过肩远景，缓慢推向空殿纵深", "character_position": "解伊肩头在前景虚化，空荡大厅占据主体", "environment_motion": "薄雾和尘埃穿过冷光，挂帘轻轻摆动", "dialogue": null, "visual_goal": "让观众确认宫殿确实空无一人"},
+        {"panel_id": "block_01_P05", "time_range": "8s-10s", "exact_action": "亚特回头看解伊，脸上带自信笑意，抬手示意继续往里", "camera_design": "85mm人物特写，浅景深，镜头轻微靠近", "character_position": "亚特面部占前景，解伊在后景右侧等待反应", "environment_motion": "侧窗光切过亚特鼻梁和颧骨，背景尘埃流动", "dialogue": {"speaker": "亚特", "text": "我师傅说精绝女王相识多年，可借归元魂浆，没啥问题。走吧，进去！", "emotion": "自信、轻松、带一点炫耀", "mouth_face": "嘴角上扬，语速轻快，眼神笃定"}, "visual_goal": "交代亚特来借归元魂浆的目的"},
+        {"panel_id": "block_01_P06", "time_range": "10s-12s", "exact_action": "亚特迈步继续前进，解伊半信半疑地跟上并回望空殿", "camera_design": "35mm双人中景，镜头跟随二人向内滑动", "character_position": "亚特位于左前方，解伊右后方回头，宫殿纵深居中", "environment_motion": "脚步声在空殿回响，帷幔和衣摆轻动", "dialogue": null, "visual_goal": "把剧情从入殿推进到深入寻找"}
+      ]
+    },
+    {
+      "block_id": "block_02",
+      "duration": 10,
+      "source_script_text": "亚特和解伊在精绝宫殿连廊中转了好多地方，推开了一间又一间房门，都是空的，也没见精绝女王。",
+      "scene_location": "精绝宫殿连廊与空房间，白天",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [],
+      "panel_count": 4,
+      "panel_plan": [
+        {"panel_id": "block_02_P01", "time_range": "0s-2s", "exact_action": "亚特推开第一间空房门，解伊从他身后探头查看", "camera_design": "35mm中近景，快速横移到门口", "character_position": "亚特在左前景推门，解伊在右后景探身，空房间占后景", "environment_motion": "门板向内摆开，灰尘从门缝涌出，帷幔轻动", "dialogue": null, "visual_goal": "动作直接开始，显示他们开始逐间搜查"},
+        {"panel_id": "block_02_P02", "time_range": "2s-5s", "exact_action": "二人穿过连廊，亚特连续推开第二扇、第三扇门，门内仍旧空无一人", "camera_design": "24mm跟拍快切感，全景带重复门洞透视", "character_position": "亚特前景快速移动，解伊跟在中景，多个空门洞沿画面右侧后退", "environment_motion": "开门气流卷起尘埃，纱帘一层层晃动", "dialogue": null, "visual_goal": "用重复门洞表现宫殿巨大但无人"},
+        {"panel_id": "block_02_P03", "time_range": "5s-8s", "exact_action": "解伊停在一间空房门口皱眉，亚特从另一扇门里探出头也没发现人", "camera_design": "50mm中景，轻微手持停顿", "character_position": "解伊在前景右侧，亚特在左后方门框里，二人距离被空房拉开", "environment_motion": "冷光照进空房，地面花瓣和灰尘轻微滚动", "dialogue": null, "visual_goal": "表现搜寻无果后疑虑上升"},
+        {"panel_id": "block_02_P04", "time_range": "8s-10s", "exact_action": "镜头后撤，二人站在长廊尽头，身后多扇房门敞开却仍无人回应", "camera_design": "24mm广角全景，蓝色虚线式后撤构图", "character_position": "亚特和解伊位于画面中央小人位，开着的门在两侧形成重复框线", "environment_motion": "长廊尽头帷幔轻摆，空旷回声延迟消散", "dialogue": null, "visual_goal": "把喜剧式寻找转入诡异空城感"}
+      ]
+    },
+    {
+      "block_id": "block_03",
+      "duration": 12,
+      "source_script_text": "在宫殿内的走廊里，解伊尴尬地看着亚特，亚特无助挠头并抱怨没人回应，说再没人回应就拿东西。",
+      "scene_location": "精绝宫殿走廊，白天，空房间外",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [
+        {"speaker": "亚特", "text": "这不应该啊，浩大的宫殿没个喘气的么？", "emotion": "困惑、尴尬、强撑面子", "mouth_face": "挠头，嘴角尴尬抽动"},
+        {"speaker": "亚特", "text": "要是再没人回应，本掌门可就拿东西了，我看宝贝可不少！", "emotion": "故作强硬、语气加重", "mouth_face": "下巴抬起，眼睛扫向四周宝物"}
+      ],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_03_P01", "time_range": "0s-2s", "exact_action": "亚特停在走廊中央挠头，解伊在旁边尴尬看他", "camera_design": "35mm双人中景，镜头静止后轻微摇晃", "character_position": "亚特左前景，解伊右中景，空门洞在二人身后", "environment_motion": "走廊尘埃漂浮，远处帷幔缓慢起伏", "dialogue": null, "visual_goal": "表现亚特自信开始崩塌"},
+        {"panel_id": "block_03_P02", "time_range": "2s-4s", "exact_action": "亚特皱眉摊手看向长廊深处，像在质问空殿", "camera_design": "50mm中近景，轻微推近亚特脸部", "character_position": "亚特占前景中心，解伊在右后侧观察他", "environment_motion": "冷光从右侧墙缝斜切，地面尘粒被脚步带动", "dialogue": {"speaker": "亚特", "text": "这不应该啊，浩大的宫殿没个喘气的么？", "emotion": "困惑、尴尬、强撑面子", "mouth_face": "挠头，嘴角尴尬抽动"}, "visual_goal": "让观众听到亚特对空殿的抱怨"},
+        {"panel_id": "block_03_P03", "time_range": "4s-6s", "exact_action": "亚特忽然指向两侧陈设，语气加重装作要拿宝贝", "camera_design": "35mm中景，手部动作跟焦", "character_position": "亚特在画面中央伸手指向右侧，解伊在左后方露出无奈表情", "environment_motion": "衣袖甩动，墙面金属饰物反出一点冷光", "dialogue": {"speaker": "亚特", "text": "要是再没人回应，本掌门可就拿东西了，我看宝贝可不少！", "emotion": "故作强硬、语气加重", "mouth_face": "下巴抬起，眼睛扫向四周宝物"}, "visual_goal": "表现亚特用嘴硬掩饰心虚"},
+        {"panel_id": "block_03_P04", "time_range": "6s-8s", "exact_action": "解伊无奈看着亚特，眼神里带怀疑和轻微嫌弃", "camera_design": "85mm解伊特写，浅景深，稳定构图", "character_position": "解伊脸部在前景，亚特虚化在后方继续比划", "environment_motion": "侧光照亮解伊眼神，背景帷幔模糊晃动", "dialogue": null, "visual_goal": "给出解伊对亚特不靠谱的反应"},
+        {"panel_id": "block_03_P05", "time_range": "8s-10s", "exact_action": "亚特尴尬收手，假装轻松地给空殿无人找理由", "camera_design": "50mm双人近景，轻微手持", "character_position": "亚特左侧回头对解伊说话，解伊右侧抬眉看他", "environment_motion": "衣料轻动，走廊冷光变得更空", "dialogue": {"speaker": "亚特", "text": "没事可能大家都在午休，沙漠天气热么。", "emotion": "强行圆场、尴尬", "mouth_face": "笑容僵硬，眼神闪躲"}, "visual_goal": "保留喜剧节奏并继续推动二人交流"},
+        {"panel_id": "block_03_P06", "time_range": "10s-12s", "exact_action": "二人停在走廊中，空房门在他们身后一扇扇敞开，气氛重新压低", "camera_design": "24mm走廊全景，镜头缓慢后退", "character_position": "二人在中景中央，身后门洞延伸成深处黑暗", "environment_motion": "尘埃和帷幔静静流动，脚步回声完全消失", "dialogue": null, "visual_goal": "用空走廊把轻松对白压回悬疑气氛"}
+      ]
+    },
+    {
+      "block_id": "block_04",
+      "duration": 10,
+      "source_script_text": "解伊打趣亚特这是上午，亚特解释沙漠有时差，并带解伊进入另一间屋内。",
+      "scene_location": "精绝宫殿走廊通往寝宫门前，白天",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [
+        {"speaker": "解伊", "text": "我说掌门，这是上午！", "emotion": "打趣、无奈", "mouth_face": "嘴角轻挑，眼神揶揄"},
+        {"speaker": "亚特", "text": "沙漠毕竟和你们中原不能比，有时差，走！进这间屋我们看看去！", "emotion": "嘴硬、急着转移话题", "mouth_face": "一本正经，马上转身指路"}
+      ],
+      "panel_count": 4,
+      "panel_plan": [
+        {"panel_id": "block_04_P01", "time_range": "0s-2s", "exact_action": "解伊侧身看着亚特，直接打趣他把上午说成午休", "camera_design": "50mm双人近景，解伊脸部优先对焦", "character_position": "解伊在右前景，亚特在左中景尴尬站住", "environment_motion": "走廊高窗冷光掠过二人肩线，尘埃缓慢流动", "dialogue": {"speaker": "解伊", "text": "我说掌门，这是上午！", "emotion": "打趣、无奈", "mouth_face": "嘴角轻挑，眼神揶揄"}, "visual_goal": "让观众看到解伊拆穿亚特尴尬借口"},
+        {"panel_id": "block_04_P02", "time_range": "2s-5s", "exact_action": "亚特强行摆出掌门架子，抬手解释沙漠和中原有时差", "camera_design": "50mm亚特近景，轻微前推", "character_position": "亚特居中前景，解伊在左后方盯着他", "environment_motion": "亚特衣袖随手势甩动，背后帷幔轻晃", "dialogue": {"speaker": "亚特", "text": "沙漠毕竟和你们中原不能比，有时差，走！进这间屋我们看看去！", "emotion": "嘴硬、急着转移话题", "mouth_face": "一本正经，马上转身指路"}, "visual_goal": "表现亚特转移尴尬并选择继续深入"},
+        {"panel_id": "block_04_P03", "time_range": "5s-8s", "exact_action": "亚特转身指向一扇更华丽的寝宫门，解伊跟着看过去", "camera_design": "35mm中景，镜头随亚特手势横移", "character_position": "亚特在左前景伸手，解伊在右中景，寝宫门在后景居中", "environment_motion": "寝宫门缝透出柔光和花影，空气中有细小花粉", "dialogue": null, "visual_goal": "把目标从普通空房切换到关键寝宫"},
+        {"panel_id": "block_04_P04", "time_range": "8s-10s", "exact_action": "亚特抬手按上寝宫门准备推开，解伊在身后谨慎收紧衣袖", "camera_design": "35mm过肩中近景，手部和门缝对焦", "character_position": "亚特背影占左前景，解伊右后方半身，门缝在画面中心", "environment_motion": "门缝柔光闪动，花影在门面上摇曳", "dialogue": null, "visual_goal": "制造进入寝宫前的悬念"}
+      ]
+    },
+    {
+      "block_id": "block_05",
+      "duration": 12,
+      "source_script_text": "亚特推门而入，树屋内部奢华如闺房，花香弥漫。",
+      "scene_location": "精绝宫殿寝宫入口与树屋般闺房内部，白天",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_05_P01", "time_range": "0s-2s", "exact_action": "亚特推开寝宫门直接踏入，解伊跟在身后半步停顿", "camera_design": "24mm广角跟拍，门口向内推进", "character_position": "亚特左前景推门，解伊右后方，寝宫空间在门内展开", "environment_motion": "门打开带动纱幔与花粉涌出，柔光扑向镜头", "dialogue": null, "visual_goal": "直接进入关键寝宫空间"},
+        {"panel_id": "block_05_P02", "time_range": "2s-4s", "exact_action": "镜头展示树屋般奢华闺房，木纹、花枝、白玉、纱幔交织", "camera_design": "24mm室内全景，轻微仰拍扫过空间", "character_position": "二人在画面下方小比例，寝宫结构占主体", "environment_motion": "纱幔飘动，花瓣缓慢落下，水雾从深处漫出", "dialogue": null, "visual_goal": "建立寝宫华丽但诡异的空间气质"},
+        {"panel_id": "block_05_P03", "time_range": "4s-6s", "exact_action": "亚特被深处白玉浴池的光吸引，身体不自觉向内偏移", "camera_design": "35mm中景，镜头从侧面跟亚特移动", "character_position": "亚特位于左中景向深处走，解伊停在右后景观察", "environment_motion": "浴池乳白反光在亚特脸上跳动，花瓣飘过二人之间", "dialogue": null, "visual_goal": "让观众看出浴池在吸引亚特"},
+        {"panel_id": "block_05_P04", "time_range": "6s-8s", "exact_action": "解伊停在门边环顾寝宫，注意到花香和水雾异常", "camera_design": "50mm解伊近景，浅景深，轻微手持", "character_position": "解伊在右前景半侧脸，亚特在左后景继续向内", "environment_motion": "水雾贴地流动，纱幔在解伊身后轻晃", "dialogue": null, "visual_goal": "表现解伊警觉，而亚特被诱导"},
+        {"panel_id": "block_05_P05", "time_range": "8s-10s", "exact_action": "亚特走近寝宫深处，抬头看向屋顶垂落的花幕", "camera_design": "35mm低角度中景，镜头随视线抬升", "character_position": "亚特在下方前景抬头，花幕占据上方画面", "environment_motion": "花朵轻颤，花汁在花瓣尖端凝结", "dialogue": null, "visual_goal": "把注意力从房间转向花汁与浴池"},
+        {"panel_id": "block_05_P06", "time_range": "10s-12s", "exact_action": "镜头越过亚特肩头，白玉浴池在后景泛出乳白光", "camera_design": "50mm过肩中景，浴池方向焦点转换", "character_position": "亚特肩背在左前景，浴池居中后景，解伊在右侧边缘", "environment_motion": "浴池水面泛光，花瓣漂浮，水雾缓慢升起", "dialogue": null, "visual_goal": "明确下一段的核心物件是归元魂浆浴池"}
+      ]
+    },
+    {
+      "block_id": "block_06",
+      "duration": 12,
+      "source_script_text": "屋顶垂落万千花朵，花汁滴入下方白玉浴池中，乳白浴池泛光，花瓣漂浮，滴答作响。",
+      "scene_location": "精绝宫殿寝宫屋顶花幕与白玉浴池，白天",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [],
+      "panel_count": 6,
+      "panel_plan": [
+        {"panel_id": "block_06_P01", "time_range": "0s-2s", "exact_action": "镜头仰拍屋顶，万千花朵和藤蔓垂落成压顶花幕", "camera_design": "24mm仰拍全景，缓慢垂直上摇", "character_position": "人物只在画面底部极小比例，花幕占主体", "environment_motion": "花朵轻轻颤动，细小花粉落下", "dialogue": null, "visual_goal": "建立花汁来源和寝宫异象"},
+        {"panel_id": "block_06_P02", "time_range": "2s-4s", "exact_action": "乳白花汁在花瓣尖端凝结，将落未落", "camera_design": "100mm微距特写，极浅景深", "character_position": "无人物，花瓣尖端居中，远处浴池虚化在下方", "environment_motion": "液滴缓慢变大，花瓣轻颤", "dialogue": null, "visual_goal": "突出归元魂浆的诱惑质感"},
+        {"panel_id": "block_06_P03", "time_range": "4s-6s", "exact_action": "花汁滴落，穿过水雾向下坠入浴池", "camera_design": "85mm慢镜特写，跟随液滴下落", "character_position": "液滴居中，亚特和解伊在远处模糊观看", "environment_motion": "水雾被液滴划开，花粉在光中漂浮", "dialogue": null, "visual_goal": "用滴落动作连接屋顶与浴池"},
+        {"panel_id": "block_06_P04", "time_range": "6s-8s", "exact_action": "花汁滴入白玉浴池，乳白池水泛起细小涟漪", "camera_design": "85mm水面特写，俯拍轻推", "character_position": "无人物，池水和花瓣占主体", "environment_motion": "涟漪向外扩散，花瓣轻轻漂移，水光闪烁", "dialogue": null, "visual_goal": "让观众确认花汁汇入浴池"},
+        {"panel_id": "block_06_P05", "time_range": "8s-10s", "exact_action": "亚特和解伊站到浴池边，亚特眼神被池水锁住", "camera_design": "35mm中景，侧面低机位", "character_position": "亚特在左前景靠近池边，解伊右后方保持距离", "environment_motion": "池水反光照亮二人脸部，水雾绕过衣摆", "dialogue": null, "visual_goal": "表现亚特被归元魂浆吸引"},
+        {"panel_id": "block_06_P06", "time_range": "10s-12s", "exact_action": "镜头俯拍浴池花瓣漂浮，二人的倒影在水面被涟漪扭曲", "camera_design": "50mm俯拍中近景，水面倒影对焦", "character_position": "人物以倒影形式出现在水面两侧，真实身体在画面边缘", "environment_motion": "涟漪扭曲倒影，水雾和花瓣不断移动", "dialogue": null, "visual_goal": "制造浴池不祥和幻觉感"}
+      ]
+    },
+    {
+      "block_id": "block_07",
+      "duration": 14,
+      "source_script_text": "解伊和亚特来到精绝宫殿浴池边，亚特说这滴落的就是归元魂浆，失神向前迈步，伸手欲触浴池水，又回头招呼解伊。",
+      "scene_location": "精绝宫殿浴池边，白天",
+      "characters": ["亚特", "解伊"],
+      "dialogue_lines": [
+        {"speaker": "亚特", "text": "这滴落的，就是归元魂浆！", "emotion": "兴奋、被吸引", "mouth_face": "眼睛发亮，声音压低但急切"},
+        {"speaker": "亚特", "text": "来公主我帮你涂抹。", "emotion": "失神、讨好、带诱导感", "mouth_face": "回头笑，眼神却仍被池水牵住"}
+      ],
+      "panel_count": 8,
+      "panel_plan": [
+        {"panel_id": "block_07_P01", "time_range": "0s-2s", "exact_action": "亚特贴近浴池边缘，伸手指向正在滴落的乳白花汁", "camera_design": "50mm中近景，手指和池水交替对焦", "character_position": "亚特左前景弯身，解伊右后方谨慎站立，浴池在二人之间", "environment_motion": "池水反光跳在亚特脸上，水雾从池边升起", "dialogue": {"speaker": "亚特", "text": "这滴落的，就是归元魂浆！", "emotion": "兴奋、被吸引", "mouth_face": "眼睛发亮，声音压低但急切"}, "visual_goal": "明确归元魂浆身份"},
+        {"panel_id": "block_07_P02", "time_range": "2s-4s", "exact_action": "解伊看着浴池皱眉，身体没有跟上亚特", "camera_design": "85mm解伊特写，浅景深，稳定构图", "character_position": "解伊面部在右前景，亚特在左后方虚化靠近水面", "environment_motion": "侧光照亮解伊眼神，水雾从后景漂过", "dialogue": null, "visual_goal": "表现解伊对浴池保持警惕"},
+        {"panel_id": "block_07_P03", "time_range": "4s-6s", "exact_action": "亚特像被迷住一样向池水迈出半步，身体重心前倾", "camera_design": "50mm慢镜中景，轻微推近", "character_position": "亚特居中前景，解伊在右后方伸手想提醒", "environment_motion": "花瓣漂向亚特手边，池水乳白光增强", "dialogue": null, "visual_goal": "显示亚特被幻觉诱导"},
+        {"panel_id": "block_07_P04", "time_range": "6s-8s", "exact_action": "亚特手指缓慢伸向乳白池水，距离水面只剩一寸", "camera_design": "100mm手部极近特写，手和水面精准对焦", "character_position": "亚特手从画面左侧进入，池水占画面下方", "environment_motion": "水面涟漪主动靠近手指，花瓣轻轻旋转", "dialogue": null, "visual_goal": "制造即将触碰危险水面的紧张感"},
+        {"panel_id": "block_07_P05", "time_range": "8s-10s", "exact_action": "亚特忽然回头招呼解伊，手仍悬在池水上方没有收回", "camera_design": "50mm过肩近景，前景手部虚化，脸部对焦", "character_position": "亚特半回头在左前景，解伊在右后方紧张看着他手", "environment_motion": "水光照亮亚特下巴，水雾从二人之间飘过", "dialogue": {"speaker": "亚特", "text": "来公主我帮你涂抹。", "emotion": "失神、讨好、带诱导感", "mouth_face": "回头笑，眼神却仍被池水牵住"}, "visual_goal": "表现亚特被迷惑后试图拉解伊靠近"},
+        {"panel_id": "block_07_P06", "time_range": "10s-11.5s", "exact_action": "解伊的表情突然僵住，视线越过亚特肩头看向浴池深处", "camera_design": "85mm面部特写，快速拉焦到眼睛", "character_position": "解伊正面前景，亚特肩背在左侧虚化", "environment_motion": "水雾在她眼前变暗，花瓣漂落速度变慢", "dialogue": null, "visual_goal": "触发她看见真实危险的瞬间"},
+        {"panel_id": "block_07_P07", "time_range": "11.5s-13s", "exact_action": "亚特仍背对浴池，背后的乳白水面开始异常翻涌", "camera_design": "50mm过肩中景，亚特背影与水面同框", "character_position": "亚特在前景中央背对浴池，解伊右后方惊恐，浴池在后景", "environment_motion": "水雾翻卷，池水向中心鼓起，花瓣被推开", "dialogue": null, "visual_goal": "让观众预感亚特背后有东西出现"},
+        {"panel_id": "block_07_P08", "time_range": "13s-14s", "exact_action": "解伊瞳孔放大，嘴唇微张却没有立刻喊出声", "camera_design": "100mm极近特写，眼睛和嘴唇对焦", "character_position": "解伊面部占满画面，亚特与浴池只在眼中反光出现", "environment_motion": "眼神光被池水反光搅动，背景完全虚化", "dialogue": null, "visual_goal": "把恐惧留给下一 block 爆发"}
+      ]
+    },
+    {
+      "block_id": "block_08",
+      "duration": 14,
+      "source_script_text": "解伊突然满是惊恐。真实景象是浴池内一位树皮褶皱、面目狰狞的老妇浮出水面，站在浴池里看着背对自己的亚特。",
+      "scene_location": "精绝宫殿浴池边，白天，幻觉破裂",
+      "characters": ["亚特", "解伊", "精绝女王异化"],
+      "dialogue_lines": [],
+      "panel_count": 8,
+      "panel_plan": [
+        {"panel_id": "block_08_P01", "time_range": "0s-2s", "exact_action": "浴池水面猛地鼓起，花瓣被顶开，树皮般的手从水雾中探出", "camera_design": "85mm水面近景，低角度快速推近", "character_position": "无正面人物，亚特背影边缘虚化，水面异动占主体", "environment_motion": "池水翻涌，花瓣四散，水雾向外炸开", "dialogue": null, "visual_goal": "直接从异化出现动作开始"},
+        {"panel_id": "block_08_P02", "time_range": "2s-4s", "exact_action": "树皮褶皱的老妇从乳白池水中缓缓浮出，半张脸先露出", "camera_design": "50mm恐怖中近景，镜头低位贴近水面", "character_position": "异化女王在后景中央升起，亚特背对她在左前景", "environment_motion": "水流从树皮纹理滑落，雾气缠住她肩颈", "dialogue": null, "visual_goal": "揭露浴池中的真实怪物"},
+        {"panel_id": "block_08_P03", "time_range": "4s-6s", "exact_action": "解伊惊恐后退半步，手抬起却不敢碰亚特", "camera_design": "50mm解伊中近景，轻微手持抖动", "character_position": "解伊右前景，亚特左中景背对危险，异化女王在后景", "environment_motion": "解伊衣袖被后退动作带起，水雾贴近地面", "dialogue": null, "visual_goal": "表现解伊看见了亚特没看见的真相"},
+        {"panel_id": "block_08_P04", "time_range": "6s-8s", "exact_action": "异化女王完全站在浴池中，阴冷盯住亚特背影", "camera_design": "35mm中景，浴池中央对称构图", "character_position": "异化女王居中后景，亚特在前景背对她，解伊在右侧边缘", "environment_motion": "乳白水从她身上滴落，花瓣被水波推向池边", "dialogue": null, "visual_goal": "建立三人危险站位"},
+        {"panel_id": "block_08_P05", "time_range": "8s-10s", "exact_action": "亚特察觉解伊脸色不对，脸上的笑容慢慢凝固", "camera_design": "85mm亚特特写，从解伊视线反打", "character_position": "亚特脸部前景，解伊惊恐倒影在他眼中，女王虚化在背后", "environment_motion": "水光在亚特脸上变冷，后方雾气翻涌", "dialogue": null, "visual_goal": "让亚特开始意识到背后异常"},
+        {"panel_id": "block_08_P06", "time_range": "10s-11.5s", "exact_action": "亚特后颈渗出冷汗，肩膀僵住，手从池水上方收回", "camera_design": "100mm后颈和手部细节特写", "character_position": "亚特后颈前景，手在画面下方撤离水面", "environment_motion": "冷汗反光，水面涟漪追着手指散开", "dialogue": null, "visual_goal": "表现亚特身体本能感到危险"},
+        {"panel_id": "block_08_P07", "time_range": "11.5s-13s", "exact_action": "亚特僵硬地开始转头，异化女王轮廓贴在他背后水雾中", "camera_design": "35mm环绕半圈中景，慢速转动", "character_position": "亚特前景半转身，异化女王在正后方中景，解伊在侧面", "environment_motion": "雾气随镜头移动划过二人之间，花瓣下落", "dialogue": null, "visual_goal": "制造回头看见怪物前的悬念"},
+        {"panel_id": "block_08_P08", "time_range": "13s-14s", "exact_action": "异化女王脸上的树皮纹理开始松动，水雾和花瓣迅速遮住她身体轮廓", "camera_design": "85mm女王面部特写，快速拉焦到眼神", "character_position": "女王脸部居中，亚特肩线在前景边缘", "environment_motion": "树皮纹理像幻觉一样剥落，雾气翻卷遮挡", "dialogue": null, "visual_goal": "把EP27结尾推向异化转美人的钩子"}
+      ]
+    }
+  ]
+}
